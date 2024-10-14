@@ -1,4 +1,5 @@
-# KN
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">  
+
 # 👋 Hi there, I'm Kyle!  
 
 I'm a passionate developer with a love for coding and technology. I enjoy building innovative projects and contributing to the community. Welcome to my GitHub profile!  
