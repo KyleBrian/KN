@@ -3,6 +3,8 @@
 
 I'm a passionate developer with a love for coding and technology. I enjoy building innovative projects and contributing to the community. Welcome to my GitHub profile!  
 
+<a href="https://github.com/kyle2000"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;AI+Enthusiast;Open-Source+Contributor;Building+Innovative+Projects;Always+Learning;Explorer+of+New+Technologies&center=true&width=500&height=50"></a>
+
 ## 🛠️ Tools I Use  
 - **Code Editors**: Visual Studio Code, PyCharm  
 - **Design**: Figma, Adobe XD  
