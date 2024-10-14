@@ -38,6 +38,27 @@ Anything from sensual musique in youtube !! haha
 
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyleBrian&show_icons=true&theme=radical)  
+## 📈 GitHub Stats
+
+
+<p align="center">
+  <a href="https://github.com/kyleBrian"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleBrian&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kyleBrian"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle2000&theme=tokyonight" alt="Profile Summary" /></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/instagram.com.reza.205" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/https://youtube.com/@rezdv4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
 
 ## 🔍 Skills  
 - **Languages**: Python, JavaScript, C++, PHP  
